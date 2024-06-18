@@ -10,6 +10,14 @@ header {
   background-color: #F5CBA7 ;
 }
 
+.img-perfil {
+  width: 40px; /* Ajusta el tamaño según tus necesidades */
+  height: 40px; /* Ajusta el tamaño según tus necesidades */
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
 .letra-color {
   background: linear-gradient(to right,rgb(255, 1, 162), rgb(45, 224, 255),rgb(32, 140, 255)); 
   -webkit-text-fill-color: transparent;
