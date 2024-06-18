@@ -1,0 +1,41 @@
+header {
+  background-color: #FDF2E9;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.navbar-custom {
+  background-color: #F5CBA7 ;
+}
+
+.letra-color {
+  background: linear-gradient(to right,rgb(255, 1, 162), rgb(45, 224, 255),rgb(32, 140, 255)); 
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+header .text-black {
+  color: black !important;
+}
+.icono-gigante {
+  font-size: 7rem;
+  padding: 5px 10px;
+}
+
+.img-proyecto{
+  width: 100%;
+}
+
+.icono-contacto{
+  font-size: 3rem;
+  color: black;
+  margin: 4px 8px;
+
+}
+
+#contacto{
+  min-height: 80vh;
+}
+
+
